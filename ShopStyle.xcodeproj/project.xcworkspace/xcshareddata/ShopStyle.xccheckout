@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3191709F-266E-4D8B-830E-FD50B0017DC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShopStyle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6F5AB36EF188E6812D146F5B05595921593CE788</key>
+		<string>github.com:kpedersen00/circle-of-chairs.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShopStyle.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6F5AB36EF188E6812D146F5B05595921593CE788</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kpedersen00/circle-of-chairs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6F5AB36EF188E6812D146F5B05595921593CE788</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6F5AB36EF188E6812D146F5B05595921593CE788</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShopStyle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
